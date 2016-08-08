@@ -1,0 +1,39 @@
+_repo: Elizabethan-Sea-Dogs--A-Chronicle-of-Drake-and-His-Companions_12855
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wood, William Charles Henry
+    birthdate: 1864
+    deathdate: 1947
+    gutenberg_agent_id: '986'
+    url: http://www.gutenberg.org/2009/agents/986
+  editor:
+    agent_name: Johnson, Allen
+    birthdate: 1870
+    deathdate: 1931
+    gutenberg_agent_id: '1084'
+    url: http://www.gutenberg.org/2009/agents/1084
+    wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
+description: ''
+gutenberg_bookshelf:
+- Children's History
+- United States
+gutenberg_issued: '2004-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12855'
+  lccn: '18016741'
+language: en
+publication_note: 'New Haven :  Yale University Press,  1918'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Chronicles of America series; v. 03
+subjects:
+- !lcsh 'Great Britain -- History, Naval -- Tudors, 1485-1603'
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603'
+- !lcsh 'Drake, Francis, approximately 1540-1596 -- Friends and associates'
+- !lcc 'DA'
+- GITenberg
+title: 'Elizabethan Sea-Dogs: A Chronicle of Drake and His Companions'
+url: http://www.gutenberg.org/ebooks/12855
